@@ -1,0 +1,1 @@
+Projeto de estudos, com ênfase na integração de dados do Front com o Back-end, fazendo-se uso da ferramenta Axios. Utilizando os seguintes métodos HTTP: GET, POST, PUT e DELETE, criei uma interface que se conecta ao JSON, e através dela é possível acessar, adicionar, deletar e alterar uma lista de usuários.
